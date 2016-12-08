@@ -1,0 +1,22 @@
+header{
+
+	width:100%;
+	background-color:grey;
+	font-size:40px;
+	overflow: hidden;
+	position:fixed;
+
+	}
+	body{
+		background-color: #F3EDED;
+		background: url('../movie2.jpeg') no-repeat center fixed;
+	}
+	section{
+		padding: 80px 50px;
+	}
+	footer{
+		margin-top: 350px;
+		background-color: grey;
+		overflow: hidden;
+
+	}
